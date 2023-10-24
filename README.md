@@ -25,7 +25,11 @@ se completarán el día 12 de octubre de 2023.
 
 Nueva actualización 16 de octubre de 
 
-Hubo cambios en los términos LP-001, LP-002 y LP-005
+- Hubo cambios en los términos LP-001, LP-002 y LP-005
+
+Nueva actualización 18 de octubre de 2023
+- El LP-005 o sprint 5 Terminado. Se terminó lo faltante y se hiso un diagnóstico de funcionabilidad. 
+(La página o sitio web de GYMBROOS ya está terminada, se subió al hosting y está en funcionamiento. El cliente quedo satisfecho con el trabajo y da el proyecto por terminado)
 
 
 # Cambios y correcciones
